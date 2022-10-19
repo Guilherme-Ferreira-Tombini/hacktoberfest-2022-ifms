@@ -10,3 +10,6 @@ Sou estundante do IFMS campus Nova Andradina, estou me formando no curso tecnico
 
  HTML, CSS3, JS, Bootstrap, PostegreSQL, MySQL, Next.js, React e Node.js
 
+ # Passatempos
+
+ Jogar video games, principalmente em console, tocar violão e jogar futebol
