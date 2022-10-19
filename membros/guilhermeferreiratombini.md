@@ -13,3 +13,7 @@ Sou estundante do IFMS campus Nova Andradina, estou me formando no curso tecnico
  # Passatempos
 
  Jogar video games, principalmente em console, tocar violão e jogar futebol
+
+# Time de futebol
+
+Sport Club Corinthians Paulista e Real Madrid
