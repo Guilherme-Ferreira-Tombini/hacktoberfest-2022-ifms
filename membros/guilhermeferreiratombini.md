@@ -1,3 +1,8 @@
 # Guilherme Ferreira Tombini
 
 Sou estundante do IFMS campus Nova Andradina, estou me formando no curso tecnico integrado em informatica.
+
+# Formação
+
+ Ensino Fundamental completo e cursando o 6º semestre do curso técnico integrado em informática do IFMS.
+
