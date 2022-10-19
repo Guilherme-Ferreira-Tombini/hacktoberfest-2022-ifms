@@ -6,3 +6,7 @@ Sou estundante do IFMS campus Nova Andradina, estou me formando no curso tecnico
 
  Ensino Fundamental completo e cursando o 6º semestre do curso técnico integrado em informática do IFMS.
 
+ # Conhecimentos de programação
+
+ HTML, CSS3, JS, Bootstrap, PostegreSQL, MySQL, Next.js, React e Node.js
+
